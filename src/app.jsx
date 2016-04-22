@@ -1,5 +1,7 @@
 import React from 'react'
-// require('basscss')
+
+require('normalize.css')
+require('basscss/css/basscss.css')
 
 
 const mockLines = [
