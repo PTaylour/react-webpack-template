@@ -1,5 +1,5 @@
 {
-  "name": "qpl-may",
+  "name": "react-webpack-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node server.js",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "PTaylour",
   "license": "ISC",
   "dependencies": {
     "basscss": "^8.0.1",
